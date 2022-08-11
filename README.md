@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on NTT Data
 - 🌱 I’m currently learning Vue
 - 📫 How to reach me: [gersoncarrasco.com](https://www.gersoncarrasco.com/){:target="_blank"}
+<a href="https://www.gersoncarrasco.com/" target="_blank">example</a>
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ... -->
