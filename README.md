@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on NTT Data
 - 🌱 I’m currently learning Vue
+- - 📫 How to reach me: [gersoncarrasco.com](https://gersoncarrasco.com)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: gersoncarrasco.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
