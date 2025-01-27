@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on NTT Data
+- 🔭 I’m currently working on Global66
 - 🌱 I’m currently learning Vue
 - 📫 How to reach me: [gersoncarrasco.com](https://www.gersoncarrasco.com/)
 <!-- - 👯 I’m looking to collaborate on ... -->
